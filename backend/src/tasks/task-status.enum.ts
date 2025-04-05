@@ -1,0 +1,5 @@
+export enum TASK_STATUS {
+  TODO = 'TODO',
+  INPROGRESS = 'INPROGRESS',
+  COMPLETED = 'COMPLETED',
+}
