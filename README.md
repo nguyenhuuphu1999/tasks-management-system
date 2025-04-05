@@ -16,7 +16,7 @@ Docker (run container)
 
 ### Schema database
 
-[![image](https://media-hosting.imagekit.io/7d23c3e8274148eb/screenshot_1743869187244.png?Expires=1838477188&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ahazxKwjqevfgscjB2OBXwZ8VhAVgl2~~BtIHeD7-bbdmSAnZmbF-qivBdx8SbVBh63XazUZajvbhRv8SzS8cCbO8X4FB-jRF5TiL3qevz7IFilF-zLsbmiqqt9WPMXwInjqKBJnYgk-RgW5Gb2YPB6Lh0IDLSax~e~OaUWAOehxvrU5p0sVCnjO5pV-tf69dtZo~29dXlS9v8YhEtovY6GNuaDyumUmp5RzKYSKTgGgfV7sqsoTnHxtYazldUXlSovCHV3~VkBOhoVPbzkMUPh04RxYp8SaZ5TGDXp5gvbfb4ky1Gva4WJlpJERPhjMruqqUNmLeFuDByQE4nF8hg__)
+[image](https://media-hosting.imagekit.io/7d23c3e8274148eb/screenshot_1743869187244.png?Expires=1838477188&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ahazxKwjqevfgscjB2OBXwZ8VhAVgl2~~BtIHeD7-bbdmSAnZmbF-qivBdx8SbVBh63XazUZajvbhRv8SzS8cCbO8X4FB-jRF5TiL3qevz7IFilF-zLsbmiqqt9WPMXwInjqKBJnYgk-RgW5Gb2YPB6Lh0IDLSax~e~OaUWAOehxvrU5p0sVCnjO5pV-tf69dtZo~29dXlS9v8YhEtovY6GNuaDyumUmp5RzKYSKTgGgfV7sqsoTnHxtYazldUXlSovCHV3~VkBOhoVPbzkMUPh04RxYp8SaZ5TGDXp5gvbfb4ky1Gva4WJlpJERPhjMruqqUNmLeFuDByQE4nF8hg__)
 
 
 ## Installation
@@ -49,7 +49,7 @@ You can test the API using Postman. The Postman collection is available in the <
 
 ## Authors
 
-- After run script insert user role <b> ADMIN <b> login then you can login with with
+- After run script insert user role <b> ADMIN </b> login then you can login with with
 ```bash
     EMAIL: admin@gmail.com
     PASSWORD: 123456
